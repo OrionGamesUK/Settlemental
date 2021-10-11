@@ -1,0 +1,30 @@
+{
+  "Category": "",
+  "Description": "",
+  "EngineAssociation": "4.26",
+  "FileVersion": 3,
+  "Modules": [
+    {
+      "LoadingPhase": "Default",
+      "Name": "Settlemental",
+      "Type": "Runtime"
+    }
+  ],
+  "Plugins": [
+    {
+      "Enabled": true,
+      "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b08e5581837e4bbca486b61cdf2751bb",
+      "Name": "VoxelPro"
+    },
+    {
+      "Enabled": true,
+      "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fcc480bac77b4373bc6c68f0ae4f9847",
+      "Name": "AutoSettings"
+    },
+    {
+      "Enabled": true,
+      "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7232621c23174bbbbb64c7bfb6583f6f",
+      "Name": "EasyMultiSave"
+    }
+  ]
+}
